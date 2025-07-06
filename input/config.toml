@@ -1,6 +1,6 @@
 [ data ]
-targets = [890656940999450714] # List of user IDs you want to spam, if you want to only spam one user, just put one id in the list, if you want to spam more, add more!
-channel_id = 1365417183240392706 # Channel ID of the dms with one of your two targets (you can get it by right clicking the dms with the user and clicking "copy channel id")
+targets = [12345] # List of user IDs you want to spam, if you want to only spam one user, just put one id in the list, if you want to spam more, add more!
+channel_id = 12345 # Channel ID of the dms with one of your two targets (you can get it by right clicking the dms with the user and clicking "copy channel id")
 messages_to_send = 2 # Amount of messages to send to each target (ONLY WORKS IF YOU HAVE MORE THAN ONE MESSAGE IN THE LIST BELOW)
 
 
