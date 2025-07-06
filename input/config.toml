@@ -1,0 +1,13 @@
+[ data ]
+targets = [890656940999450714] # List of user IDs you want to spam, if you want to only spam one user, just put one id in the list, if you want to spam more, add more!
+channel_id = 1365417183240392706 # Channel ID of the dms with one of your two targets (you can get it by right clicking the dms with the user and clicking "copy channel id")
+messages_to_send = 2 # Amount of messages to send to each target (ONLY WORKS IF YOU HAVE MORE THAN ONE MESSAGE IN THE LIST BELOW)
+
+
+messages = ["hi"] # List of messages you want to spam (optional: set it to [] if you want to disable it), if you want to only spam one message, just put one message in the list, if you want to spam more, add more! 
+leave = true # leave the group after spamming (optional: set it to false if you want to keep the token in the group)
+
+[ dev ]
+Proxyless = true
+Debug = false
+Threads = 1

@@ -1,0 +1,4 @@
+logmagix==2.1.2.9
+Requests==2.32.3
+tls_client==1.0.1
+toml==0.10.2
