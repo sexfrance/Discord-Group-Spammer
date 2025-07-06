@@ -1,7 +1,7 @@
 <div align="center">
   <h2 align="center">Discord Group Spammer</h2>
   <p align="center">
-    An automated tool for spamming Discord group DMs using multiple tokens, proxy support, and multi-threading.
+    An automated tool for spamming Discord group DMs using multiple tokens, proxy support, and multi-threading. Old shit and has bugs probably not working properly. Easily fixable though
     <br />
     <br />
     <a href="https://discord.cyberious.xyz">💬 Discord</a>
